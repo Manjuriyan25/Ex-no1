@@ -61,12 +61,12 @@ END
 |         1200                    |
 
 #### Manual Calculations
-
-(Add your calculation here)
+2+6=8
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="659" height="441" alt="image" src="https://github.com/user-attachments/assets/247a1406-9f51-47db-843f-e788516988a5" />
 
 ## 2. SUBTRACTION
 
@@ -113,9 +113,10 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+6-2=4
 
----
+---<img width="663" height="448" alt="image" src="https://github.com/user-attachments/assets/c6338c61-7692-48e1-a873-35477d3769a2" />
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -162,7 +163,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+6*2=12
+<img width="651" height="433" alt="image" src="https://github.com/user-attachments/assets/a1fa769a-2cfd-45a2-9f55-e89af3654dbd" />
 
 ---
 
@@ -206,8 +208,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
+6/2=3
+<img width="650" height="428" alt="image" src="https://github.com/user-attachments/assets/52741629-213f-4ffc-a8ac-818da511cf28" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
